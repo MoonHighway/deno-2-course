@@ -11,7 +11,7 @@ defaults and a great developer experience. It's built on [V8](https://v8.dev/),
 Learn more about the Deno runtime
 [in the documentation](https://docs.deno.com/runtime/manual).
 
-## Course Outline + Links
+## Course Outline 
 
 * 01 - What is Deno? - [Video]() 
 * 02 - What's New In Deno? - [Video]() 
