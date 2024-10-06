@@ -14,7 +14,7 @@ Learn more about the Deno runtime
 ## Course Outline + Links
 
 * 01 - What is Deno? - [Video]() 
-* 02 - What's New In Deno? - - [Video]() 
+* 02 - What's New In Deno? - [Video]() 
 * 03 - Your Deno Development Environment - [Video]() | [Files]()
 * 04 - Runtime Security in Deno - [Video]() | [Files]()
 * 05 - Built-in Tooling - [Video]() | [Files]()
@@ -28,4 +28,8 @@ Learn more about the Deno runtime
 
 ## Important Links
 
-* Deno Documentation
+* [Deno Documentation](https://docs.deno.com/)
+* [Deno GitHub](https://github.com/denoland/deno)
+* [JSR](https://jsr.io/)
+* [Deno Third Party Modules](https://deno.land/x)
+* [Deno Deploy](https://docs.deno.com/deploy/manual)
