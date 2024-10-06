@@ -26,7 +26,7 @@ Learn more about the Deno runtime
 * 11 - TypeScript and JSX in Deno - [Video]() | [Files]()
 * 12 - Backward Compatibility with Node.js and npm - [Video]() | [Files]()
 
-## Important Links
+## Important Links 🔗
 
 * [Deno Documentation](https://docs.deno.com/)
 * [Deno GitHub](https://github.com/denoland/deno)
