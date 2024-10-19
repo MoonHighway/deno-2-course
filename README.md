@@ -1,6 +1,6 @@
 # Getting Started with Deno 2.0
 
-This repo contains all of the files for a course that covers the basics of Deno 2.0. Check out the course on [YouTube]()! 
+This repo contains all of the files for a course that covers the basics of Deno 2.0. Check out the course on [YouTube](https://www.youtube.com/@moonhighway)! 
 
 <img align="right" src="https://deno.land/logo.svg" height="150px" alt="the deno mascot dinosaur standing in the rain">
 
