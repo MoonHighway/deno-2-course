@@ -13,8 +13,8 @@ Learn more about the Deno runtime
 
 ## Course Outline 
 
-* 01 - What is Deno? - [Video](https://www.youtube.com/watch?v=KPTOo4k8-GE&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=1&pp=iAQB) 
-* 02 - What's New In Deno? - [Video](https://www.youtube.com/watch?v=mgX1ymfqPSQ&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=2&pp=iAQB) 
+* 01 - What is Deno? - [Video](https://www.youtube.com/watch?v=KPTOo4k8-GE&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=1&pp=iAQB) | [Files]()
+* 02 - What's New In Deno? - [Video](https://www.youtube.com/watch?v=mgX1ymfqPSQ&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=2&pp=iAQB) | [Files]()
 * 03 - Your Deno Development Environment - [Video](https://www.youtube.com/watch?v=BFfrGrLm2tw&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=3&pp=iAQB) | [Files]()
 * 04 - Runtime Security in Deno - [Video](https://www.youtube.com/watch?v=a8DaWZq6TXk&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=4&pp=iAQB) | [Files]()
 * 05 - Built-in Tooling - [Video](https://www.youtube.com/watch?v=-4e9DkUrCr4&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=5&pp=iAQB) | [Files]()

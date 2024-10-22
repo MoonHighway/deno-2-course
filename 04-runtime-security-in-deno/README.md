@@ -6,4 +6,6 @@ Deno prioritizes security by default, requiring developers to explicitly opt-in 
 
 ## Important Links 🔗
 
-* [Deno Docs: Set Up Your Environment](https://docs.deno.com/runtime/getting_started/setup_your_environment/)
+* [Set Up Your Environment](https://docs.deno.com/runtime/getting_started/setup_your_environment/)
+* [Node's Security Problem](https://deno.com/learn/nodes-security-problem)
+* [Security and Permissions](https://docs.deno.com/runtime/fundamentals/security/)

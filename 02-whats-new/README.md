@@ -8,3 +8,4 @@ Deno 2.0 introduces powerful features for backwards compatibility with Node.js, 
 
 * [Announcing Deno 2 Blog](https://deno.com/blog/v2.0)
 * [Announcing Deno 2 Video](https://www.youtube.com/watch?v=d35SlRgVxT8)
+* [JSR](https://jsr.io/)
