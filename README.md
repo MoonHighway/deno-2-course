@@ -25,6 +25,13 @@ Learn more about the Deno runtime
 * 10 - Configuration with deno.json - Coming Soon!
 * 11 - TypeScript and JSX in Deno - Coming Soon!
 * 12 - Backward Compatibility with Node.js and npm - Coming Soon!
+* 13 - Build a RESTful API server with Deno and Hono - Coming Soon!
+* 14 - Build a Command Line Utility - Coming Soon!
+* 15 - Build a Real-Time WebSocket Application - Coming Soon!
+* 16 - Build a Full Stack Web Application with Fresh - Coming Soon!
+* 17 - Run Deno with Docker - Coming Soon!
+* 18 - Run Deno on AWS Lambda - Coming Soon!
+* 19 - Run Deno on the Edge - Coming Soon!
 
 ## Important Links 🔗
 
