@@ -21,15 +21,16 @@ Learn more about the Deno runtime
 * 06 - Browser APIs in Deno - [Video](https://www.youtube.com/watch?v=oxVwTT-rZRo&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=6&pp=iAQB) | [Files]()
 * 07 - Deno Namespace APIs - [Video](https://www.youtube.com/watch?v=p28ujFMrdA0&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=7&pp=iAQB) | [Files]()
 * 08 - Publishing Modules with JSR - [Video](https://www.youtube.com/watch?v=7uiL4WYvZVs&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=8&pp=iAQB) | [Files]()
-* 09 - ECMAScript Modules in Deno - [Video]() | [Files]()
-* 10 - Configuration with deno.json - [Video]() | [Files]()
-* 11 - TypeScript and JSX in Deno - [Video]() | [Files]()
-* 12 - Backward Compatibility with Node.js and npm - [Video]() | [Files]()
+* 09 - ECMAScript Modules in Deno - Coming Soon!
+* 10 - Configuration with deno.json - Coming Soon!
+* 11 - TypeScript and JSX in Deno - Coming Soon!
+* 12 - Backward Compatibility with Node.js and npm - Coming Soon!
 
 ## Important Links 🔗
 
 * [Deno Documentation](https://docs.deno.com/)
 * [Deno GitHub](https://github.com/denoland/deno)
+* [Deno by Example](https://docs.deno.com/examples/)
 * [JSR](https://jsr.io/)
 * [Deno Third Party Modules](https://deno.land/x)
 * [Deno Deploy](https://docs.deno.com/deploy/manual)
