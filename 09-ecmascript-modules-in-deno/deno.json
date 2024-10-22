@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@eveporcello/sing": "jsr:@eveporcello/sing@^0.1.0"
+  }
+}

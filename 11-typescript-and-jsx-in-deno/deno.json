@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "React.createElement",
+    "jsxFragmentFactory": "React.Fragment"
+  },
+  "tasks": {
+    "start": "deno --allow-net main.ts"
+  },
+  "lint": {
+    "rules": {
+      "exclude": ["ban-ts-comment"]
+    }
+  },
+  "fmt": {
+    "options": {
+      "useTabs": false,
+      "lineWidth": 80
+    }
+  },
+  "imports": {
+    "react": "npm:react"
+  }
+}

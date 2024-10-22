@@ -1,0 +1,21 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net main.ts",
+    "test": "deno test --allow-read tests/",
+    "beautify": "deno fmt && deno lint"
+  },
+  "lint": {
+    "rules": {
+      "exclude": ["ban-ts-comment"]
+    }
+  },
+  "fmt": {
+    "options": {
+      "useTabs": false,
+      "lineWidth": 80
+    }
+  },
+  "imports": {
+    "sing": "jsr:@eveporcello/sing@^0.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@eveporcello/sing@0.1": "0.1.0"
+  },
+  "jsr": {
+    "@eveporcello/sing@0.1.0": {
+      "integrity": "ce78834fa77a9f776951dd127eecc74a214f1f26b4e8fd658cb5238f42104069"
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@eveporcello/sing@0.1"
+    ]
+  }
+}
