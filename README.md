@@ -23,16 +23,16 @@ Each of the corresponding folders has the files for the Deno project if you want
 * 06 - Browser APIs in Deno - [Video](https://www.youtube.com/watch?v=oxVwTT-rZRo&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=6&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/tree/main/06-browser-apis/README.md)
 * 07 - Deno Namespace APIs - [Video](https://www.youtube.com/watch?v=p28ujFMrdA0&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=7&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/tree/main/07-deno-namespace-apis/README.md)
 * 08 - Publishing Modules with JSR - [Video](https://www.youtube.com/watch?v=7uiL4WYvZVs&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=8&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/tree/main/08-publishing-modules-with-jsr/README.md)
-* 09 - ECMAScript Modules in Deno - Coming Soon!
-* 10 - Configuration with deno.json - Coming Soon!
-* 11 - TypeScript and JSX in Deno - Coming Soon!
-* 12 - Backward Compatibility with Node.js and npm - Coming Soon!
-* 13 - Build a RESTful API server with Deno and Hono - Coming Soon!
-* 14 - Build a Command Line Utility - Coming Soon!
-* 15 - Build a Real-Time WebSocket Application - Coming Soon!
-* 16 - Build a Full Stack Web Application with Fresh - Coming Soon!
-* 17 - Run Deno with Docker - Coming Soon!
-* 18 - Run Deno on AWS Lambda - Coming Soon!
+* 09 - ECMAScript Modules in Deno - [Video](https://www.youtube.com/watch?v=cTFBiwYY3vs&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/09-ecmascript-modules-in-deno/README.md)
+* 10 - Configuration with deno.json - [Video](https://www.youtube.com/watch?v=bTmO5Tfgke4&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=10&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/10-configuration-with-deno-json/README.md)
+* 11 - TypeScript and JSX in Deno  - [Video](https://www.youtube.com/watch?v=KoM8ahe8O74&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=11&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/11-typescript-and-jsx-in-deno/README.md)
+* 12 - Backward Compatibility with Node.js and npm - [Video](https://www.youtube.com/watch?v=QPLchkJ7eas&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=12&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/12-backward-compatibility-with-node-npm/README.md) 
+* 13 - Build a RESTful API server with Deno and Hono - [Video](https://www.youtube.com/watch?v=J8kZ-s-5-ms&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=13&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/13-restful-api-with-hono/README.md) 
+* 14 - Build a Command Line Utility - [Video](https://www.youtube.com/watch?v=TUxj2TS5pNo&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=14&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/14-build-a-command-line-utility/README.md) 
+* 15 - Build a Real-Time WebSocket Application - [Video](https://www.youtube.com/watch?v=FC4IrkHEg4A&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=15&pp=iAQB) | [Files](https://github.com/MoonHighway/deno-2-course/blob/main/15-build-a-realtime-websocket-app/README.md) 
+* 16 - Run Deno with Docker - Coming Soon!
+* 17 - Run Deno on AWS Lambda - Coming Soon!
+* 18 - Build a Full Stack Web Application with Fresh - Coming Soon!
 * 19 - Run Deno on the Edge - Coming Soon!
 
 ## Important Links 🔗

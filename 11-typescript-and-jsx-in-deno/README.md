@@ -1,6 +1,6 @@
 # 11 - TypeScript and JSX in Deno
 
-🎥 Video Coming Soon!
+🎥 [Watch on YouTube](https://www.youtube.com/watch?v=KoM8ahe8O74&list=PLvvLnBDNuTEov9EBIp3MMfHlBxaKGRWTe&index=11&pp=iAQB)
 
 In this tutorial, learn how to natively process TypeScript and JSX using Deno without needing additional tools like ts-node or tsconfig. We'll demonstrate type checking with Deno commands, customize TypeScript compiler settings using the deno.json file, and handle imports for libraries such as React. Discover how Deno simplifies TypeScript and JSX development, offering powerful configuration and support for different environments.
 

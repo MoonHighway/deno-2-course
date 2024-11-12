@@ -1,0 +1,7 @@
+{
+  "tasks": {},
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.6.5",
+    "@std/cli": "jsr:@std/cli@^1.0.6"
+  }
+}
